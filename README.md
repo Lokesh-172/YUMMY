@@ -3,7 +3,8 @@
 A food ordering application built using React, Redux Toolkit, and Tailwind CSS, integrating real-time data from the Swiggy API.
 
 ## Live Demo
-![Live Link](https://yummy-henna-sigma.vercel.app/)
+Check out the live site here: [yummy-henna-sigma.vercel.app](https://yummy-henna-sigma.vercel.app/)
+
 
 ## Key Features
 
